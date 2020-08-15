@@ -1,0 +1,9 @@
+
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(¾ÌÂ•ıÿÿÿÿ8¶´Èú±.
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8¬¹‹ú±.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ8®‘“ú±.
+u	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(ãéº¦8Õë»ú±.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¤ôÕôúÿÿÿÿ8¶´Èú±.
+Z
+java:S1197F"8Move the array designator from the variable to the type.(²¾óëùÿÿÿÿ8­–©ú±.
