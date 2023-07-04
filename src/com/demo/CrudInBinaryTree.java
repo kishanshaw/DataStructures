@@ -75,7 +75,7 @@ public class CrudInBinaryTree {
     root.right.left = new Node(15);
     root.right.right = new Node(8);
   
-    System.out.print( "Inorder traversal before nodes insertion only:");
+    System.out.print( "Inorder traversal before nodes insertion:");
     inorder(root);
   
     int key = 12;
