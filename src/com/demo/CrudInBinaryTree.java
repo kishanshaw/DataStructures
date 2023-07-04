@@ -75,13 +75,13 @@ public class CrudInBinaryTree {
     root.right.left = new Node(15);
     root.right.right = new Node(8);
   
-    System.out.print( "Inorder traversal before insertion:");
+    System.out.print( "Inorder traversal before nodes insertion only:");
     inorder(root);
   
     int key = 12;
     insert(root, key);
   
-    System.out.print("\nInorder traversal after insertion:");
+    System.out.print("\nInorder traversal after nodes insertion:");
     inorder(root);
   
   }
